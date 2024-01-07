@@ -398,6 +398,10 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+a{
+	text-decoration: none;
+	color: aqua;
+}
 /* End Projects section */
 
 /* About Section */

@@ -265,6 +265,7 @@ p {
 /* End Hero Section */
 
 /* Services Section */
+/*
 #services .services {
 	flex-direction: column;
 	text-align: center;
@@ -323,7 +324,7 @@ p {
 #services .service-item p {
 	color: white;
 	text-align: left;
-}
+} */
 /* End Services Section */
 
 /* Projects section */
